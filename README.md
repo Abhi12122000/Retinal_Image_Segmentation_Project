@@ -1,4 +1,4 @@
-# Retinal_Image_Segmentation_Project
+# Retinal Image Segmentation
 
 This is a Course Project of the course CSM-433 Digital Image Processing, in the Spring 2022 semester at IIT (BHU).
 
@@ -11,4 +11,4 @@ The algorithm is based on the paper:-
 Soomro, T.A., Khan, T.M., Khan, M.A., Gao, J., Paul, M. and Zheng, L., 2018. Impact of ICA-based image enhancement technique on retinal blood vessels segmentation. IEEE Access, 6, pp.3524-3538.
 
 
-More details can be found in the file DIP_Report.docx  
+More details can be found in the file DIP_Report.pdf  
