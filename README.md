@@ -1,4 +1,4 @@
-# Retinal_Image_Segmentation_Project
+# Retinal Image Segmentation
 
 This is a Course Project of the course CSM-433 Digital Image Processing, in the Spring 2022 semester at IIT (BHU).
 
